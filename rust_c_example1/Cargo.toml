@@ -1,5 +1,5 @@
 [package]
-name = "rust_c_example3"
+name = "rust_c_example1"
 version = "0.1.0"
 edition = "2021"
 
