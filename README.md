@@ -18,3 +18,5 @@ This example use ```cc::Build``` to compile the c file. This approach doesn't re
 
 ## Example3
 This example use ```libloading``` to load .so file. 
+
+Some code is referenced from https://github.com/aircloud/rust-c-demo
